@@ -1,0 +1,14 @@
+body{
+       background-size: cover;
+       background-image: url("https://wallpapers.com/images/featured/a5u9zq0a0ymy2dug.jpg");
+       background-size: cover;
+       border: 5px saddlebrown;
+}
+img {
+
+        border: 5px solid black;
+        border-radius: 20px;
+      }
+#border-img{
+        border: 10px darkblue;
+}
